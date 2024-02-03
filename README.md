@@ -1,4 +1,7 @@
 # Open Datasets Canada
+
+![GitHub last commit](https://img.shields.io/github/last-commit/longnca/Open-Datasets-Canada)
+
 A repository dedicated to listing open datasets related to Canada. 
 
 ## Statistics Canada Open Databases
